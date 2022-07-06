@@ -4,9 +4,9 @@ import (
 	"runtime"
 	"testing"
 
-	. "github.com/agiledragon/gomonkey/v2"
-	"github.com/agiledragon/gomonkey/v2/test/fake"
 	. "github.com/smartystreets/goconvey/convey"
+	. "github.com/zhongyuanjia/gomonkey/v2"
+	"github.com/zhongyuanjia/gomonkey/v2/test/fake"
 )
 
 func TestApplyFuncSeq(t *testing.T) {

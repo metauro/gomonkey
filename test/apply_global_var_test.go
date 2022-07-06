@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	. "github.com/agiledragon/gomonkey/v2"
 	. "github.com/smartystreets/goconvey/convey"
+	. "github.com/zhongyuanjia/gomonkey/v2"
 )
 
 var num = 10
